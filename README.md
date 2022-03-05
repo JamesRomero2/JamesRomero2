@@ -1,8 +1,11 @@
 ### Halooo~ I'm James Romero | Blue Royalty 👋👑
+<a href="https://www.linkedin.com/in/jameslabradorromero/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/channel/UCh0ur_US53T69ajW9K2aYjA">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
-[![Linkedin Badge]((https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jameslabradorromero/)
-[![Youtube Badge]((https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCh0ur_US53T69ajW9K2aYjA)
 
 ## Programming Languages
 
