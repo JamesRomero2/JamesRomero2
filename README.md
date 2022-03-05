@@ -1,13 +1,20 @@
 ### Halooo~ I'm James Romero | Blue Royalty 👋👑
 <a href="https://www.linkedin.com/in/jameslabradorromero/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" height="50" width="auto"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" height="20" width="auto"/>
 </a>
 <a href="https://www.youtube.com/channel/UCh0ur_US53T69ajW9K2aYjA">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="50" width="auto"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="20" width="auto"/>
 </a>
 
 
-## Programming Languages
+## Technical Skills
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20" width="auto"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20" width="auto"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="20" width="auto"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20" width="auto"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20" width="auto"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="20" width="auto"/>
+
 
 I am a Information Technology student that is passionate about coding, currently based in the Philippines. 
 
