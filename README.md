@@ -17,7 +17,9 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="20" width="auto"/>
 </a>
 
+
 I am a Information Technology student that is passionate about coding, currently based in the Philippines. 
+
 
 ** My Goals **
 - Improve my Web Designing skills
