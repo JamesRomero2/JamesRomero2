@@ -1,4 +1,6 @@
 ### Halooo~ I'm James Romero | Blue Royalty 👋👑
+
+<img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
 [![Linkedin Badge]((https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jameslabradorromero/)
 [![Youtube Badge]((https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCh0ur_US53T69ajW9K2aYjA)
 
