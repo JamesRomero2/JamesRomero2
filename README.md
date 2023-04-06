@@ -1,4 +1,4 @@
-### Halooo~ I'm James Romero | Blue Royalty 👋👑
+### Hello~ I'm James Romero 👋👑
 <a href="https://www.linkedin.com/in/jameslabradorromero/">
   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" height="20" width="auto"/>
 </a>
@@ -18,7 +18,7 @@
 </a>
 
 
-I am a Information Technology student that is passionate about coding, currently based in the Philippines. 
+I am a BS Information Technology student that is passionate about coding, currently based in the Philippines. 
 
 
 ** My Goals **
