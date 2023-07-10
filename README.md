@@ -1,4 +1,4 @@
-### Hello~ I'm <a href="https://www.jamesromero.tech/">James Romero</a> 👋👑
+### Hello Everyone ! I'm <a href="https://www.jamesromero.tech/">James Romero</a> 👋👑
 <a href="https://www.linkedin.com/in/jameslabradorromero/">
   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" height="20" width="auto"/>
 </a>
@@ -8,7 +8,7 @@
 
 
 ## Technical Skills
-<a href="https://jamesromero-homepage.vercel.app/">
+<a href="https://www.jamesromero.tech/">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20" width="auto"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20" width="auto"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="20" width="auto"/>
@@ -18,18 +18,17 @@
 </a>
 
 
-I am a BS Information Technology student that is passionate about coding, currently based in the Philippines. 
+I am a Graduating BS Information Technology student that is passionate about coding, currently based in the Philippines. 
 
+## 🎯 My Goals
+- 🎨 Improve my Web Designing skills
+- 🖥️ To master Front-End Development
+- 🌐 Learn Back-End Development
+- 🖧 Become a Full-Stack Developer
 
-** My Goals **
-- Improve my Web Designing skills
-- To master Front-End Development
-- Learn Back-End Development
-- Become a Full-Stack Developer
-
-** When I am not Coding **
+## 💬 When I am not Coding
 - I watch Coding Tutorials
-- Gaming, specifically playing League
+- Gaming
 - Teach other people how to code
 - Think ideas and design for my next coding project
 
